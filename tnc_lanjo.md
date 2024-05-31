@@ -1,5 +1,3 @@
-       @page { size: 8.5in 11in; margin: 1in } p { line-height: 115%; text-align: left; orphans: 2; widows: 2; margin-bottom: 0.1in; direction: ltr; background: transparent } strong { font-weight: bold }
-
 **Kebijakan Privasi Aplikasi Lanjo**
 
   
